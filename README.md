@@ -25,7 +25,7 @@ Run the Python script sentiment_analysis.py.
 The script will preprocess the text data, perform sentiment analysis on sample reviews, and output the sentiment analysis results.
 
 Screenshots:
-![Screenshot 2024-02-29 at 19 09 31](https://github.com/zdl1506/finalCapstone/assets/152559640/781d24ee-5a96-4fb7-a946-359ad4a0060c)
+![Screenshot 2024-02-29 at 19 12 43](https://github.com/zdl1506/finalCapstone/assets/152559640/1374d7a1-3d4b-46bf-949e-3ad681a883d4)
 Screenshot of sentiment analysis performed on sample product reviews.
 
 Credits:
