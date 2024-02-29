@@ -1,15 +1,15 @@
 # finalCapstone
 
-Project Name: Sentiment Analysis on Amazon Product Reviews
+## Project Name: Sentiment Analysis on Amazon Product Reviews
 Description:
 This project conducts sentiment analysis on a collection of product reviews sourced from Amazon customers. Leveraging Natural Language Processing (NLP) methodologies, the text data undergoes preprocessing to facilitate the prediction of sentiment for each review, categorizing them as positive, negative, or neutral. The outcome of the sentiment analysis aids in understanding customer sentiments towards products purchased on Amazon.
 
-Table of Contents:
-Installation
-Usage
-Credits
+#### Table of Contents:
+* Installation
+* Usage
+* Credits
 
-Installation:
+*Installation*:
 To run this project, follow these steps:
 
 Clone the GitHub repository: https://github.com/zdl1506/finalCapstone.
